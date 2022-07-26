@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jessikaneves 
-- 👀 I’m interested in ... Em novos projetos
-- 🌱 I’m currently learning ...a programar
-- 💞️ I’m looking to collaborate on ...novos projetos 
-- 📫 How to reach me ... @jessika._.neves
+-👋 Hi, I’m Jéssika Neves
+-🎓 Técnica de Informática -ETEPAM
+-💻 Fazendo o bootcamp da Generation para ser desenvolvedora Full-Stack Java Jr
+-🏡 Sou de Recife - PE-
 
 <!---
 jessikaneves/jessikaneves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
