@@ -1,5 +1,5 @@
 -👋 Hi, I’m Jéssika Neves
--🎓 Técnica de Informática -ETEPAM
+-🎓 Técnica em Manutenção e Suporte de Informática -ETEPAM
 -💻 Fazendo o bootcamp da Generation para ser desenvolvedora Full-Stack Java Jr
 -🏡 Sou de Recife - PE-
 
