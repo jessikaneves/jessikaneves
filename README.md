@@ -2,8 +2,8 @@
 - 💻 Estudante de Engenharia de software - Unicesumar ✨
 - 🎓 Técnica em Manutenção e Suporte de Informática -ETEPAM
 - 🎓 Cursando Técnico em Analise e desenvolvimento de  Sistemas -ETEPAC ✨
-- 💻 Cursei o bootcamp da Generation para ser desenvolvedora Full-Stack Java Jr
-- 💻 Cursando o bootcamp ElasTech Java pela Soulcode- Pagbank 2024 ✨
+- 💻 Bootcamp da Generation para ser desenvolvedora Full-Stack Java Jr
+- 💻 Bootcamp ElasTech Java pela Soulcode- Pagbank 2024 ✨
 - 🎓 Educadora de Inclusão digital e informática ✨
 - 🏡 Sou de Recife - PE-
 
