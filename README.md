@@ -1,5 +1,15 @@
 <h2 align="left">Hi 👋! My name is Jéssika Neves ...</h2>
 
+- 👋 Hi, I’m Jéssika Neves
+- 💻 Estudante de Engenharia de software - Unicesumar ✨
+- 🎓 Técnica em Manutenção e Suporte de Informática -ETEPAM
+- 🎓 Cursando Técnico em Analise e desenvolvimento de  Sistemas -ETEPAC ✨
+- 💻 Bootcamp da Generation para ser desenvolvedora Full-Stack Java Jr
+- 💻 Bootcamp ElasTech Java pela Soulcode- Pagbank 2024 
+- 🎓 Educadora de Inclusão digital e informática/programação
+- 🏡 Sou de Recife - PE-
+
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -20,6 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
+  <img width="12" />
 </div>
 
 ###
