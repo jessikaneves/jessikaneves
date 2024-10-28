@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Jéssika Neves
 - 💻 Estudante de Engenharia de software - Unicesumar ✨
 - 🎓 Técnica em Manutenção e Suporte de Informática -ETEPAM
-- 🎓 Cursando Técnico em Analise e desenvolvimento de  Sistemas -ETEPAC ✨
+- 🎓 Técnico em Analise e desenvolvimento de  Sistemas -ETEPAC ✨
 - 💻 Bootcamp da Generation para ser desenvolvedora Full-Stack Java Jr
 - 💻 Bootcamp ElasTech Java pela Soulcode- Pagbank 2024 
 - 🎓 Educadora de Inclusão digital e informática/programação
